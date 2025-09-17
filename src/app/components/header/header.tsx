@@ -10,7 +10,7 @@ export function Header() {
             <View>
                 <Text>Localização</Text>
                 <View>
-                    <Feather name="map-pin" size={14}/>
+                    <Feather name="map-pin" size={14} color="#FF0000"/>
                 </View>
             </View>
             <Pressable className="w-12 h-12 bg-white rounded-full flex justify-center items-center">
